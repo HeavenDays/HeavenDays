@@ -1,7 +1,8 @@
-# Hi there, I'm Minx! 👋
+# Hello, I'm Minx! 👋
 
 ### 👨‍💻 Tentang Saya
 * 🔭 Saat ini sedang asyik mengeksplorasi ekosistem **Data Engineering** dan **Backend Development**.
+* 📊 Sangat menyukai **Data Analysis** dan **Visualisasi Data** untuk mengubah data mentah menjadi *insight* dan *dashboard* yang mudah dipahami.
 * 🛠️ Berpengalaman merancang dan membangun aplikasi *web* menggunakan **PHP** dan **Laravel**.
 * 📱 Suka merancang dan mengembangkan aplikasi seluler (khususnya Android) menggunakan **Flutter**.
 * 🤖 Sedang asyik mendalami berbagai *AI tools* mutakhir seperti **Antigravity**, **Cursor**, dan lainnya untuk mempercepat alur kerja dan produktivitas *coding*.
