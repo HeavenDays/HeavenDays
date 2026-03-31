@@ -1,10 +1,12 @@
-# Hi there, I'm Jordi! 👋
+# Hi there, I'm Minx! 👋
 
 ### 👨‍💻 Tentang Saya
 * 🔭 Saat ini sedang asyik mengeksplorasi ekosistem **Data Engineering** dan **Backend Development**.
-* 🛠️ Berpengalaman merancang dan membangun aplikasi menggunakan **PHP** dan **Laravel**.
-* 🐧 Pengguna setia **Linux** (terbiasa dengan berbagai distro) dan sangat antusias dengan teknologi open-source.
-* 🌱 Selalu terbuka untuk belajar hal baru, terutama seputar pipeline data dan optimasi sistem.
+* 🛠️ Berpengalaman merancang dan membangun aplikasi *web* menggunakan **PHP** dan **Laravel**.
+* 📱 Suka merancang dan mengembangkan aplikasi seluler (khususnya Android) menggunakan **Flutter**.
+* 🤖 Sedang asyik mendalami berbagai *AI tools* mutakhir seperti **Antigravity**, **Cursor**, dan lainnya untuk mempercepat alur kerja dan produktivitas *coding*.
+* 🐧 Pengguna setia **Linux** (terbiasa dengan berbagai distro) dan sangat antusias dengan teknologi *open-source*.
+* 🌱 Selalu terbuka untuk belajar hal baru, terutama seputar *pipeline* data, optimasi sistem, dan integrasi AI.
 * 📫 Cara menghubungi saya: [Linkedin](https://linkedin.com/in/jordiriawan) | [Email](mailto:muhamadjordi11136@gmail.com)
 
 ---
@@ -25,6 +27,7 @@
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 **OS & Version Control**
