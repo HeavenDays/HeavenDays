@@ -35,6 +35,20 @@
 
 ---
 
+### 🚀 Projects (Coming Soon!)
+
+Berikut adalah beberapa project website yang sedang dalam tahap perencanaan dan akan segera saya bangun:
+
+| Nama Project | Deskripsi | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Membuat Tracker Saham Dan Crypto](#)** | (Deskripsi singkat, misal: Prediksi With AI / Sistem Tracking API Crypto) | `ReactJS`, `CSS`, `Poke API` | 🚧 *Dalam Rencana* |
+| **[Membuat Sistem Keuangan](#)** | (Deskripsi singkat, misal: Mempermudah untuk Users menghitung Keuangan) | `ReactJS`, `Firebase` | 🚧 *Dalam Rencana* |
+| **[Membuat Program SAAS](#)** | (Deskripsi singkat project website ketiga kamu) | `Laravel`,`PHP`, `Tailwind` | 🚧 *Dalam Rencana* |
+
+*(Link repository akan segera diupdate setelah project mulai dikerjakan!)*
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -42,3 +56,4 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
