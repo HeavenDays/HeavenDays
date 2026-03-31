@@ -11,6 +11,16 @@
 * 📫 Cara menghubungi saya: [Linkedin](https://linkedin.com/in/jordiriawan) | [Email](mailto:muhamadjordi11136@gmail.com)
 
 ---
+### 🌐 Connect with Me
+<p>
+  <a href="https://instagram.com/jordiye" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@pencaribuahiblis" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-minx05535-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
 
 ### 🛠️ Tech Stack & Tools
 
