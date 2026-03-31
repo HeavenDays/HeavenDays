@@ -59,7 +59,5 @@ Berikut adalah beberapa project website yang sedang dalam tahap perencanaan dan 
   </a>
   <a href="https://tiktok.com/@pencaribuahiblis" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-minx05535-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
