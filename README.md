@@ -1,11 +1,11 @@
 # Hello, I'm Minx! 👋
 
 ### 👨‍💻 Tentang Saya
-* 🔭 Saat ini sedang asyik mengeksplorasi ekosistem **Data Engineering** dan **Backend Development**.
+* 🔭 Saat ini sedang mengeksplorasi ekosistem **Data Engineering** dan **Backend Development**.
 * 📊 Sangat menyukai **Data Analysis** dan **Visualisasi Data** untuk mengubah data mentah menjadi *insight* dan *dashboard* yang mudah dipahami.
 * 🛠️ Berpengalaman merancang dan membangun aplikasi *web* menggunakan **PHP** dan **Laravel**.
 * 📱 Suka merancang dan mengembangkan aplikasi seluler (khususnya Android) menggunakan **Flutter**.
-* 🤖 Sedang asyik mendalami berbagai *AI tools* mahir seperti **Antigravity**, **Cursor**, dan lainnya untuk mempercepat alur kerja dan produktivitas *coding*.
+* 🤖 Sedang mendalami berbagai *AI tools* mahir seperti **Antigravity**, **Cursor**, dan lainnya untuk mempercepat alur kerja dan produktivitas *coding*.
 * 🐧 Pengguna setia **Linux** (terbiasa dengan berbagai distro) dan sangat antusias dengan teknologi *open-source*.
 * 🌱 Selalu terbuka untuk belajar hal baru, terutama seputar *pipeline* data, optimasi sistem, dan integrasi AI.
 * 📫 Cara menghubungi saya: [Linkedin](https://linkedin.com/in/jordiriawan) | [Email](mailto:muhamadjordi11136@gmail.com)
