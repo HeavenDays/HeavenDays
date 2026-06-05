@@ -45,7 +45,7 @@ Berikut adalah beberapa project website yang sedang dalam tahap perencanaan dan 
 | Nama Project | Deskripsi | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[Membuat Tracker Saham Dan Crypto](#)** | (Deskripsi singkat, misal: Prediksi With AI / Sistem Tracking API Crypto) | `ReactJS`, `CSS`, `Poke API` | 🚧 *Dalam Rencana* |
-| **[Membuat Sistem Keuangan](#)** | (Deskripsi singkat, misal: Mempermudah untuk Users menghitung Keuangan) | `ReactJS`, `Firebase` | 🚧 *Dalam Rencana* |
+| **[FinTrack-AI](https://github.com/HeavenDays/FinTrack-AI)** | Aplikasi manajemen keuangan dengan AI untuk membantu pengguna mengelola dan menganalisis keuangan mereka | `ReactJS`, `Firebase` | ✅ *Aktif* |
 | **[Membuat Program SAAS](#)** | (Deskripsi singkat project website ketiga kamu) | `Laravel`,`PHP`, `Tailwind` | 🚧 *Dalam Rencana* |
 
 *(Link repository akan segera diupdate setelah project mulai dikerjakan!)*
