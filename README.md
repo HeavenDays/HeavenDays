@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media.giphy.com/media/L05QwBrFYKziuT5Exa/giphy.gif" width="500" alt="Sasuke Chidori Animation"/></div>
+# <div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVyNnQ1bTNrYTRyemp4dmtwMGx4amt5ajRrdDJ5aHpreHFpdGVzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtwISFbwSjfIk/giphy.gif" width="500" alt="Sasuke Chidori Animation"/></div>
 
 # 👋 Halo! Welcome to My GitHub
 
