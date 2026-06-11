@@ -2,14 +2,13 @@
 
 # Hello Friend
 
-**Data Engineer | Backend Developer | AI Enthusiast | Tech Innovator**
+**Data Engineer | Backend Developer | Tech Innovator**
 
 ---
 
-## ME?
-like lonely 
-walking alone
----
+## Who am I?
+
+An independent problem-solver. I enjoy the quiet focus required to build complex data structures, design robust backend systems, and experiment with the latest open-source technologies.
 
 ## Tech Stack
 
