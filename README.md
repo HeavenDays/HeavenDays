@@ -70,13 +70,3 @@ I'm a passionate technologist dedicated to building scalable data solutions and 
 </div>
 
 ---
-
-<div align="center">
-
-### ⭐ If you find my work interesting, consider giving a star! It means a lot.
-
-**Keep coding, keep learning, keep innovating!** 🚀
-
-*Last updated: 2026*
-
-</div>
