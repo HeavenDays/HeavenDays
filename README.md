@@ -6,17 +6,7 @@
 
 ---
 
-## About Me
-
-I build scalable data solutions and robust backend systems, turning raw data into actionable insights.
-
-**Focus:** Data Engineering & Backend Development
-
-**Tech Stack:** PHP/Laravel, Python, Flutter, React, Next.js
-
-**Interests:** AI tools, Data Visualization, Linux & Open-source
-
----
+## ME? WHY ME?
 
 ## Tech Stack
 
