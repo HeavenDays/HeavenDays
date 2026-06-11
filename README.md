@@ -11,41 +11,8 @@
   <p><i>🚀 Data Engineer | Backend Developer | Tech Enthusiast</i></p>
   
   <!-- Animated Text -->
-  <h2 style="animation: glow 2s ease-in-out infinite;">✨ Welcome to My Profile ✨</h2>
+  <h2>✨ Welcome to My Profile ✨</h2>
 </div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-}
-
-@keyframes glow {
-  0%, 100% { 
-    text-shadow: 0 0 5px #FF6B9D, 0 0 10px #FF6B9D;
-    color: #FF6B9D;
-  }
-  50% { 
-    text-shadow: 0 0 20px #00D9FF, 0 0 30px #00D9FF;
-    color: #00D9FF;
-  }
-}
-
-@keyframes slideInRight {
-  from {
-    opacity: 0;
-    transform: translateX(100px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-h3 {
-  animation: slideInRight 0.8s ease-out;
-}
-</style>
 
 ---
 
@@ -70,15 +37,15 @@ h3 {
 
 **📊 Data & Analytics**
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-eb6e4d?style=for-the-badge&logo=apache)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-eb6e4d?style=for-the-badge&logo=apacheflink) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark)
 
 **💻 Backend & Frontend**
 
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
 **🔧 Tools & Infrastructure**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
 </div>
 
