@@ -58,16 +58,6 @@ I'm a passionate technologist dedicated to building scalable data solutions and 
 
 ---
 
-## 🤝 Let's Collaborate
-
-I'm always excited about new opportunities and collaborations!
-
-- 💬 **Ask me about:** Data Engineering, Backend Architecture, AI Integration, System Design
-- 🔗 **Interested in:** Open source contributions, technical partnerships, mentoring
-- 📧 **Open to:** Full-time roles, freelance projects, consulting
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
