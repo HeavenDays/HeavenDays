@@ -6,7 +6,10 @@
 
 ---
 
-## ME? WHY ME?
+## ME?
+like lonely 
+walking alone
+---
 
 ## Tech Stack
 
