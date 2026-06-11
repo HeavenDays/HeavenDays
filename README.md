@@ -3,8 +3,49 @@
 <div align="center">
   <img src="https://media.giphy.com/media/bj2hsqpxpxeLW/giphy.gif" width="150" height="150" alt="coding animation">
   <br/>
+  
+  <!-- Animated Anime Character -->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" height="200" alt="anime girl coding" style="animation: float 3s ease-in-out infinite; border-radius: 50%; border: 3px solid #FF6B9D;">
+  
+  <br/>
   <p><i>🚀 Data Engineer | Backend Developer | Tech Enthusiast</i></p>
+  
+  <!-- Animated Text -->
+  <h2 style="animation: glow 2s ease-in-out infinite;">✨ Welcome to My Profile ✨</h2>
 </div>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes glow {
+  0%, 100% { 
+    text-shadow: 0 0 5px #FF6B9D, 0 0 10px #FF6B9D;
+    color: #FF6B9D;
+  }
+  50% { 
+    text-shadow: 0 0 20px #00D9FF, 0 0 30px #00D9FF;
+    color: #00D9FF;
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+h3 {
+  animation: slideInRight 0.8s ease-out;
+}
+</style>
 
 ---
 
@@ -29,11 +70,11 @@
 
 **📊 Data & Analytics**
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-eb6e4d?style=for-the-badge&logo=apacheflink) ![Airflow](https://img.shields.io/badge/Airflow-017cee?style=for-the-badge&logo=apacheairflow) ![dbt](https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt) ![Apache Superset](https://img.shields.io/badge/Superset-ffffff?style=for-the-badge&logo=apache) ![Metabase](https://img.shields.io/badge/Metabase-509ee3?style=for-the-badge&logo=metabase)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-eb6e4d?style=for-the-badge&logo=apache)
 
 **💻 Backend & Frontend**
 
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
 **🔧 Tools & Infrastructure**
 
