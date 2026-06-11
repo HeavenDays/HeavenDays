@@ -25,48 +25,6 @@ I'm a passionate technologist dedicated to building scalable data solutions and 
 
 ---
 
-## 💼 Featured Projects
-
-### 🔗 [FinTrack-AI](https://github.com/HeavenDays/FinTrack-AI)
-**AI-powered Finance Management System** ⭐ Most Complex Project
-
-Real-time financial insights powered by artificial intelligence
-- 📊 Real-time financial dashboard with predictive analytics
-- 🎯 Multi-asset tracking & portfolio analysis
-- 🤖 AI-driven recommendations & trend prediction
-- 📱 Responsive design with modern UI/UX
-- **Tech Stack:** Next.js, React, TypeScript, Python, TensorFlow, PostgreSQL
-- **Status:** 🚧 Active Development | **Impact:** High
-
-### 📈 Stock & Crypto Tracker
-**Intelligent Market Analysis Platform**
-
-Professional-grade market intelligence for traders & investors
-- 📊 Real-time price tracking with advanced AI predictions
-- 📈 Technical analysis with custom indicators
-- 🔔 Smart alerts & notifications
-- 💡 ML-based trend analysis
-- **Tech Stack:** React, Tailwind CSS, WebSocket APIs, Node.js
-- **Status:** 🚀 In Development | **Complexity:** High
-
-### 💼 Enterprise SAAS Platform
-**Modern Business Management Solution**
-
-Complete business management system for enterprises
-- 👥 User & team management
-- 📊 Advanced analytics & reporting
-- 🔐 Enterprise-grade security
-- ⚡ High-performance architecture
-- **Tech Stack:** Laravel, PHP, PostgreSQL, Tailwind CSS, Redis
-- **Status:** 🏗️ Architecture Phase | **Scalability:** Enterprise-level
-
-### 🌐 Additional Projects
-- Flutter Mobile Applications - Cross-platform solutions
-- Data Pipeline Tools - Apache Kafka & Flink integrations
-- Microservices Architecture - Scalable backend systems
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📊 **Data & Analytics**
