@@ -17,14 +17,6 @@ I'm a passionate technologist dedicated to building scalable data solutions and 
 
 ---
 
-## 🎯 Currently Working On
-
-- 🔴 **FinTrack-AI** - AI-powered finance management system (Active Development)
-- 📚 **Learning** - Advanced Data Pipeline Architecture & Real-time Analytics
-- 🔗 **Exploring** - LLM Integration & Advanced ML Models
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📊 **Data & Analytics**
