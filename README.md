@@ -1,6 +1,6 @@
 # <div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNhZDltN2U0N2l0YWVtcGJhN24yZ3JmOHIzeHBxMXZjY3RmZTJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="500" alt="Sasuke Chidori Animation"/></div>
 
-# 👋 Halo! Welcome to My GitHub
+# Hello Friend
 
 **Data Engineer | Backend Developer | AI Enthusiast | Tech Innovator**
 
