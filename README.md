@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNhZDltN2U0N2l0YWVtcGJhN24yZ3JmOHIzeHBxMXZjY3RmZTJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="500" alt="Sasuke Chidori Animation"/></div>
+# <div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNhZDltN2U0N2l0YWVtcGJhN24yZ3JmOHIzeHBxMXZjY3RmZTJibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="300" /></div>
 
 # Hello Friend
 
@@ -6,29 +6,28 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a passionate technologist dedicated to building scalable data solutions and robust backend systems. I love transforming raw data into actionable insights and creating elegant solutions to complex problems.
+I build scalable data solutions and robust backend systems, turning raw data into actionable insights.
 
-- 🚀 **Specialization:** Data Engineering & Backend Development
-- 📊 **Expertise:** Converting raw data into beautiful visualizations & insights
-- 💻 **Tech Stack:** PHP/Laravel, Flutter, Next.js, React, Python
-- 🤖 **Exploring:** AI tools like Cursor, Machine Learning & LLMs
-- 🐧 **Philosophy:** Linux & open-source advocate
-- 🌱 **Mindset:** Continuous learning & technological innovation
+**Focus:** Data Engineering & Backend Development
+
+**Tech Stack:** PHP/Laravel, Python, Flutter, React, Next.js
+
+**Interests:** AI tools, Data Visualization, Linux & Open-source
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 📊 **Data & Analytics**
+### Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 💻 **Backend & Frontend**
+### Backend & Frontend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -37,7 +36,7 @@ I'm a passionate technologist dedicated to building scalable data solutions and 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🚀 **Tools & Infrastructure**
+### Tools & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +45,7 @@ I'm a passionate technologist dedicated to building scalable data solutions and 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -58,7 +57,7 @@ I'm a passionate technologist dedicated to building scalable data solutions and 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
