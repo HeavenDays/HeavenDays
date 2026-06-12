@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvbWV6dWY5c2tnZmdxYXRwZGMzOTY5OXBpZTI5N3FhdG5icGY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdInbVEktp3sA/giphy.gif" width="300" /></div>
+# <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvbWV6dWY5c2tnZmdxYXRwZGMzOTY5OXBpZTI5N3FhdG5icGY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdInbVEktp3sA/giphy.gif" width="400" height="300" alt="Welcome Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" /></div>
 
 # Hello Friend
 
