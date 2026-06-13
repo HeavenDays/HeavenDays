@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvbWV6dWY5c2tnZmdxYXRwZGMzOTY5OXBpZTI5N3FhdG5icGY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdInbVEktp3sA/giphy.gif" width="200">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno0ZWF6bWppNXFqYTljZnBkanhwaXRpNHg1bGxyenJ4aWh6MjE4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ujZtlj1Y7wXyE/giphy.gif" width="200">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVvbHUydzI3bjM3OHFrazg5dDB4bmdvN3M1eHFmZDNnM2ZleHZqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hiNS1VWfrdDr4SPbaz/giphy.gif" width="200">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhsODc2cHY4eHZkN3Jwem02bXhpcGlraTQweGFkdGs2dm1xcmFycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18uqjN9ukvPwI/giphy.gif" width="200">
   
   ## 👋 Hello Friend
   
@@ -85,7 +87,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=80&section=footer" width="100%">
-</div>
