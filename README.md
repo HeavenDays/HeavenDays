@@ -1,8 +1,14 @@
-# <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvbWV6dWY5c2tnZmdxYXRwZGMzOTY5OXBpZTI5N3FhdG5icGY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdInbVEktp3sA/giphy.gif" width="400" height="300" alt="Welcome Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" /></div>
+# <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvbWV6dWY5c2tnZmdxYXRwZGMzOTY5OXBpZTI5N3FhdG5icGY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdInbVEktp3sA/giphy.gif" width="100"></div>
 
 # Hello Friend
 
-**Data Engineer | Backend Developer | Tech Innovator**
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Data+Engineer;Backend+Developer;Tech+Innovator;Always+Learning...)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=HeavenDays&color=blueviolet)
+
+</div>
 
 ---
 
