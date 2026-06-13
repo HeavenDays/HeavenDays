@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVvbHUydzI3bjM3OHFrazg5dDB4bmdvN3M1eHFmZDNnM2ZleHZqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hiNS1VWfrdDr4SPbaz/giphy.gif" width="200">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhsODc2cHY4eHZkN3Jwem02bXhpcGlraTQweGFkdGs2dm1xcmFycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18uqjN9ukvPwI/giphy.gif" width="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW51NzJ0Nm5lYWJqN2J5aWlqNTlvMG5wazF0dzQ2bHd6M2oycGR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDfF7dsoI3YVe6sinf/giphy.gif" width="200">
   
   ## 👋 Hello Friend
   
@@ -21,7 +21,6 @@
 
 ###  Tech Stack
 
-<details>
 <summary><b>Data & Analytics</b></summary>
 <br>
 
@@ -31,9 +30,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-</details>
 
-<details>
 <summary><b> Backend & Frontend</b></summary>
 <br>
 
@@ -45,9 +42,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-</details>
 
-<details>
 <summary><b> Tools & Infrastructure</b></summary>
 <br>
 
@@ -64,12 +59,11 @@
 ###  GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeavenDays&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117" width="400">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenDays&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="335">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavenDays&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenDays&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeavenDays&theme=tokyonight&hide_border=true&background=0d1117)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeavenDays&theme=tokyonight&hide_border=true&background=0d1117" width="400">
 
 </div>
 
