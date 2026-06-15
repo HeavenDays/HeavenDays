@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvbWV6dWY5c2tnZmdxYXRwZGMzOTY5OXBpZTI5N3FhdG5icGY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EdInbVEktp3sA/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGUydW84aTU3b3poeGFqY2gxbzdwN2l5ZmwxdHozcjBmMHIzbGJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="200">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVvbHUydzI3bjM3OHFrazg5dDB4bmdvN3M1eHFmZDNnM2ZleHZqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hiNS1VWfrdDr4SPbaz/giphy.gif" width="200">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW51NzJ0Nm5lYWJqN2J5aWlqNTlvMG5wazF0dzQ2bHd6M2oycGR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDfF7dsoI3YVe6sinf/giphy.gif" width="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lsZzlrMThucGpkaHZwaTRzNmZka3B4M3lraHJxcnhudGl6Z200cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif" width="200">
   
   ## 👋 Hello Friend
   
