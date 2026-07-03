@@ -1,81 +1,166 @@
+```txt
+                                       _                
+            .-""""-""-.              .' ;               
+          .'           `.          .'  /                
+         /               `-:     .'   /-.               
+        /                  ;_  .'   .'  /               
+     .-'    .-"-.("-._      7 / /     .'                
+     "-,:  /     "--. ; .-,: / :     ')  ___            
+      /  \:        _ `:/  ;;:  ;    .'  /   l           
+      L_ ;  / _    6`    // ; :    ';.-'   /            
+        \:.: :6         ;" :  ;.--""    _ (             
+         `-`.    `     j  _;-"       .-" `.\            
+         ..--\    -'  / `"        .-"      "            
+.----"""" __  '-.___.'         .-"                      
+'...___     "":+"             :                         
+   '--..__  .'                ;                         
+       '._.'                  :                         
+  .-.   .'   .-";              \                        
+ /   '-'  .-"   :               \                       
+ `-._  .-"  bug  ;               `.                     
+    /.'          :       c         "-.                  
+    "             \                   "-.               
+                   \                     ""--.._.-.     
+                    `.        . \l-._              "-._ 
+                      `.   _._`;-'   ""---...__        l
+                       :      l__.-.           """""""" 
+                        \     :     \                   
+                         `.      .'  \                  
+                           `._.-" `.  ;                 
+                                    `-'
+
+
+██╗  ██╗███████╗ █████╗ ██╗   ██╗███████╗███╗   ██╗██████╗  █████╗ ██╗   ██╗███████╗
+██║  ██║██╔════╝██╔══██╗██║   ██║██╔════╝████╗  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝
+███████║█████╗  ███████║██║   ██║█████╗  ██╔██╗ ██║██║  ██║███████║ ╚████╔╝ ███████╗
+██╔══██║██╔══╝  ██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║  ██║██╔══██║  ╚██╔╝  ╚════██║
+██║  ██║███████╗██║  ██║ ╚████╔╝ ███████╗██║ ╚████║██████╔╝██║  ██║   ██║   ███████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝
+
+```
+
+# Hey, I'm HeavenDays
+
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGUydW84aTU3b3poeGFqY2gxbzdwN2l5ZmwxdHozcjBmMHIzbGJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="200">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG80YXFkbW9jamFxdXl6cDg1NWExcTduN2l3OGIwMmkzajRlMzdlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Nzq2od8Zz3aQYqfFi/giphy.gif" width="200">
-  
-  ## 👋 Hello Friend
-  
-  **Data Engineer · Backend Developer · Tech Innovator · Always Learning**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Data+Engineer;Backend+Developer;Tech+Innovator;Open+Source+Explorer;Always+Learning" />
 
 </div>
 
 ---
 
-###  Who am I?
+## About Me
 
-> An independent problem-solver. I enjoy the quiet focus required to build complex data structures, design robust backend systems, and experiment with the latest open-source technologies.
+```yaml
+name: MinxJacks
+username: MinxJacks
+role: Data Engineer | Backend Developer | Tech Innovator
+focus:
+  - Data Engineering
+  - Backend Development
+  - Distributed Systems
+  - Open Source Technology
+  - Infrastructure & Automation
 
----
+currently_learning:
+  - Stream Processing
+  - Scalable Data Architecture
+  - Cloud Infrastructure
+  - Machine Learning Engineering
 
-###  Tech Stack
-
-<summary><b>Data & Analytics</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
-<summary><b> Backend & Frontend</b></summary>
-<br>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
-<summary><b> Tools & Infrastructure</b></summary>
-<br>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</details>
+motto: "Build useful systems, learn deeply, stay curious."
+```
 
 ---
 
-###  GitHub Analytics
+## Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,bash" />
+</p>
+
+### Data & Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,tensorflow" />
+</p>
+
+<p align="left">
+  Apache Kafka • Apache Flink
+</p>
+
+### Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,nextjs,flutter" />
+</p>
+
+### DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode" />
+</p>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeavenDays&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117" width="400">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenDays&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="335">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeavenDays&theme=tokyonight&hide_border=true&background=0d1117" width="400">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeavenDays&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeavenDays&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeavenDays&theme=github_dark" />
 
 </div>
 
+
+## Connect With Me
+
+<p align="left">
+<a href="https://github.com/HeavenDays" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://linkedin.com/in/jordiriawan" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://instagram.com/jordiye" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+</p>
+
 ---
 
-### Connect With Me
+## Terminal
+
+```bash
+$ whoami
+> Data Engineer & Backend Developer
+
+$ sudo service mindset start
+> [OK] Keep Learning...
+
+$ cat goals.txt
+> Build reliable systems
+> Master data infrastructure
+> Ship meaningful products
+> Never stop learning
+```
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordiriawan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jordiye)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadjordi11136@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeavenDays)
+### "Build smart systems, automate wisely, keep evolving."
+
+<img src="https://komarev.com/ghpvc/?username=HeavenDays&label=Profile%20Views&color=0e75b6&style=flat" alt="HeavenDays" />
 
 </div>
-
----
